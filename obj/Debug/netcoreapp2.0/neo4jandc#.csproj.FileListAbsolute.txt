@@ -1,0 +1,10 @@
+C:\neo4jandc#\bin\Debug\netcoreapp2.0\neo4jandc#.deps.json
+C:\neo4jandc#\bin\Debug\netcoreapp2.0\neo4jandc#.runtimeconfig.json
+C:\neo4jandc#\bin\Debug\netcoreapp2.0\neo4jandc#.runtimeconfig.dev.json
+C:\neo4jandc#\bin\Debug\netcoreapp2.0\neo4jandc#.dll
+C:\neo4jandc#\bin\Debug\netcoreapp2.0\neo4jandc#.pdb
+C:\neo4jandc#\obj\Debug\netcoreapp2.0\neo4jandc#.csproj.CoreCompileInputs.cache
+C:\neo4jandc#\obj\Debug\netcoreapp2.0\neo4jandc#.AssemblyInfoInputs.cache
+C:\neo4jandc#\obj\Debug\netcoreapp2.0\neo4jandc#.AssemblyInfo.cs
+C:\neo4jandc#\obj\Debug\netcoreapp2.0\neo4jandc#.dll
+C:\neo4jandc#\obj\Debug\netcoreapp2.0\neo4jandc#.pdb
